@@ -2,7 +2,7 @@
 
 ## Cappella Sistena (Michelangelo)
 2025-05-26<br>
-![Cappella Sistena](images/2025-05-26-Cappella_Sistena.jpg)
+![Cappella Sistena](images/2025-05-26-Cappella_Sistena.JPG)
 <br>2014 pieces
 
 ## D.C. II - Yume & Otome
