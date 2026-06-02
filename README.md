@@ -1,5 +1,10 @@
 <p align="right"><a href="https://luffm.github.io/Jigsaw-Puzzles/">Jigsaw Puzzles</a></p>
 
+## Princess Hyacinth (Alphonse Mucha)
+2026-05-14<br>
+![Princess Hyacinth](images/2026-05-14-Princess_Hyacinth.jpg)
+<br>1000 pieces
+
 ## Cappella Sistena (Michelangelo)
 2025-05-26<br>
 ![Cappella Sistena](images/2025-05-26-Cappella_Sistena.JPG)
